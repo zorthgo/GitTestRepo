@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 8A35-8472
+
+ Directory of c:\TestRepo
+
+02/10/2016  12:06 AM    <DIR>          .
+02/10/2016  12:06 AM    <DIR>          ..
+02/10/2016  12:03 AM               388 feature1.txt
+02/10/2016  12:06 AM                 0 feature2.txt
+02/09/2016  11:57 PM                31 README.md
+               3 File(s)            419 bytes
+               2 Dir(s)  58,615,517,184 bytes free
